@@ -18,7 +18,7 @@
     <script>
       require.config({
           
-          urlArgs: "v=(&#39;20170805002039&#39;,)",
+          urlArgs: "v=(&#39;20170808140307&#39;,)",
           
           baseUrl: '/hub/static/js',
           paths: {
