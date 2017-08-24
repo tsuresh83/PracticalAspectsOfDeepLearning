@@ -1,2 +1,2 @@
 # PracticalAspectsOfDeepLearning
-Programming examples from Andrew Ng's course on coursera
+Programming exercise solutions for Andrew Ng's course on coursera
